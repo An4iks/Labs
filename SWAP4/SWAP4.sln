@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SWAP4", "SWAP4\SWAP4.vcxproj", "{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}.Debug|x64.ActiveCfg = Debug|x64
+		{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}.Debug|x64.Build.0 = Debug|x64
+		{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}.Debug|x86.Build.0 = Debug|Win32
+		{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}.Release|x64.ActiveCfg = Release|x64
+		{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}.Release|x64.Build.0 = Release|x64
+		{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}.Release|x86.ActiveCfg = Release|Win32
+		{57B46F02-8F3C-45FE-8185-CBD3DB880CAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1985D46B-6ABA-4B7D-A79F-C06A99945A95}
+	EndGlobalSection
+EndGlobal
