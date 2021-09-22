@@ -8,42 +8,42 @@ int main(){
 setlocale (LC_ALL, "rus");
     string name, surname, nameOfDad, sex, birthday, adress, numberOfPhone, placeOfTeaching, classSchool, hobby;
 
-    cout << "Âàøà ôàìèëèÿ?=";
+    cout << "Ã‚Ã Ã¸Ã  Ã´Ã Ã¬Ã¨Ã«Ã¨Ã¿?=";
     cin >> name;
-    cout << "\nÈìÿ?=";
+    cout << "\nÃˆÃ¬Ã¿?=";
     cin >> surname;
-    cout << "\nÎò÷åñòâî?=";
+    cout << "\nÃŽÃ²Ã·Ã¥Ã±Ã²Ã¢Ã®?=";
     cin >> nameOfDad;
-    cout << "\nÂàø ïîë?=";
+    cout << "\nÃ‚Ã Ã¸ Ã¯Ã®Ã«?=";
     cin >> sex;
-    cout << "\nÊîãäà Âû ðîäèëèñü?=";
+    cout << "\nÃŠÃ®Ã£Ã¤Ã  Ã‚Ã» Ã°Ã®Ã¤Ã¨Ã«Ã¨Ã±Ã¼?=";
     cin >> birthday;
-    cout << "\nÂàø àäðåñ?=";
+    cout << "\nÃ‚Ã Ã¸ Ã Ã¤Ã°Ã¥Ã±?=";
     cin >> adress;
-    cout << "\nÂàø íîìåð òåëåôîíà?=";
+    cout << "\nÃ‚Ã Ã¸ Ã­Ã®Ã¬Ã¥Ã° Ã²Ã¥Ã«Ã¥Ã´Ã®Ã­Ã ?=";
     cin >> numberOfPhone;
-    cout << "\nÂàøå ìåñòî ó÷åáû?=";
+    cout << "\nÃ‚Ã Ã¸Ã¥ Ã¬Ã¥Ã±Ã²Ã® Ã³Ã·Ã¥Ã¡Ã»?=";
     cin >> placeOfTeaching;
-    cout << "\nÂ êàêîì Âû êëàññå?=";
+    cout << "\nÃ‚ ÃªÃ ÃªÃ®Ã¬ Ã‚Ã» ÃªÃ«Ã Ã±Ã±Ã¥?=";
     cin >> classSchool;
-    cout << "\nÊàêîå ó Âàñ õîááè?=";
+    cout << "\nÃŠÃ ÃªÃ®Ã¥ Ã³ Ã‚Ã Ã± ÃµÃ®Ã¡Ã¡Ã¨?=";
     cin >> hobby;
 
     cout << endl;
 
-    cout << "\t\t\t À Í Ê Å Ò À \n\n";
-    cout << "Ôàìèëèÿ\t\tÈìÿ\t\tÎò÷åñòâî\n";
+    cout << "\t\t\t Ã€ Ã ÃŠ Ã… Ã’ Ã€ \n\n";
+    cout << "Ã”Ã Ã¬Ã¨Ã«Ã¨Ã¿\t\tÃˆÃ¬Ã¿\t\tÃŽÃ²Ã·Ã¥Ã±Ã²Ã¢Ã®\n";
     cout << "-------\t\t---\t\t--------\n";
     cout << surname << "\t\t" << name << "\t\t" << nameOfDad << "\n\n";
-    cout << "Ïîë\t\tÄàòà Ðîæäåíèÿ\t\tÍîìåð òåëåôîíà\n";
+    cout << "ÃÃ®Ã«\t\tÃ„Ã Ã²Ã  ÃÃ®Ã¦Ã¤Ã¥Ã­Ã¨Ã¿\t\tÃÃ®Ã¬Ã¥Ã° Ã²Ã¥Ã«Ã¥Ã´Ã®Ã­Ã \n";
     cout << "-------\t\t---\t\t\t--------\n";
     cout << sex << "\t\t" << birthday << "\t\t" << numberOfPhone << "\n\n";
-    cout << "Àäðåñ\n\n";
+    cout << "Ã€Ã¤Ã°Ã¥Ã±\n\n";
     cout << "-----\n\n";
     cout << adress;
-    cout << "\nÌåñòî ó÷åáû\t\tÊëàññ\n";
+    cout << "\nÃŒÃ¥Ã±Ã²Ã® Ã³Ã·Ã¥Ã¡Ã»\t\tÃŠÃ«Ã Ã±Ã±\n";
     cout << "-----------\t\t-----\n";
-    cout << "Õîááè\n";
+    cout << "Ã•Ã®Ã¡Ã¡Ã¨\n";
     cout << "-----\n";
     cout << hobby;
 }
